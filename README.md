@@ -9,13 +9,12 @@ I'm passionate about building systems that bridge hardware and intelligence—fr
 ---
 
 ### What I Work With
-
-**Languages:** Python · C · C++ · HTML · CSS · MATLAB · JavaScript · SQL  
-**Web Technologies:** React · Node.js · REST APIs · Django · MQTT  
+**Programming Languages:** Python · C · C++ · HTML · CSS · MATLAB · JavaScript · SQL  
+**ML/CV Libraries:** PyTorch · TensorFlow · OpenCV · MediaPipe · Pandas · NumPy  
+**Web Technologies:** React · Node.js · Django · REST APIs · MQTT  
+**Embedded Systems:** Arduino · ESP-IDF · ROS 2  
 **Tools:** Git · Docker · Roboflow · Excel  
-**Frameworks & Packages:** PyTorch · TensorFlow · Arduino · ESP-IDF · ROS 2 · OpenCV · MediaPipe  
 **Manufacturing Technologies & Software:** FDM 3D-Printing · CNC Routing · Autodesk Fusion 360  
-**Hardware & Embedded Development:** Arduino · ESP-IDF · Soldering · LTspice · Vivado  
 
 ---
 
@@ -23,9 +22,16 @@ I'm passionate about building systems that bridge hardware and intelligence—fr
 
 #### [EasyConnect](https://github.com/BJKin/EasyConnect--Final) — Smart Networking Wristband (Firmware)
 #### [EasyConnect](https://github.com/BJKin/EasyConnect_SoftwareFinal) — Smart Networking Wristband (Web app)
-An IoT wearable that exchanges contact info via handshake detection. Uses an embedded neural network processing IMU data, BLE device pairing based on RSSI, and MQTT for real-time profile exchange. Built with ESP-IDF, TensorFlow, and Django.
+**Hardware Technologies:** Espressif microcontroller · Bluetooth Low Energy (BLE) · NFC · WiFi  
+**Software Technologies:** C++ · Python · TensorFlow · Django · MQTT  
+
+An IoT wearable to improve the flow of information at professional networking events for both end users and event hosts. Allows information to be exchanged between users via a simple 
+handshake and duals as an event pass solution.
 
 #### [ECE-176](https://github.com/BJKin/ECE-176) — Semantic Image Inpainting
+**Software Technologies:** Python · PyTorch · Kaggle · Git · TensorBoard  
+**Neural Networks:** Convolutional Neural Networks (CNN) · Generative Adversarial Networks (GANs)  
+
 A modern PyTorch re-implementation of *"Context Encoders: Feature Learning by Inpainting"* (Pathak et al., 2016). Developed encoder-decoder and GAN-based architectures trained with reconstruction and adversarial loss.
 
 ---
