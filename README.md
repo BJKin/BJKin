@@ -4,17 +4,7 @@
 
 **Electrical Engineering @ UC San Diego** | Machine Learning & Controls
 
-I'm passionate about building systems that bridge hardware and intelligence—from embedded IoT devices to deep learning applications. Currently wrapping up my B.S. and heading into an M.S. in Intelligent Systems, Robotics & Control at UCSD.
-
----
-
-### What I Work With
-**Programming Languages:** Python · C · C++ · HTML · CSS · MATLAB · JavaScript · SQL  
-**ML/CV Libraries:** PyTorch · TensorFlow · OpenCV · MediaPipe · Pandas · NumPy  
-**Web Technologies:** React · Node.js · Django · REST APIs · MQTT  
-**Embedded Systems:** Arduino · ESP-IDF · ROS 2  
-**Tools:** Git · Docker · Roboflow · Excel  
-**Manufacturing Technologies & Software:** FDM 3D-Printing · CNC Routing · Autodesk Fusion 360  
+I'm passionate about building systems that bridge hardware and intelligence- from embedded IoT devices to deep learning applications. Currently wrapping up my B.S. and heading into an M.S. in Intelligent Systems, Robotics & Control at UCSD.
 
 ---
 
@@ -39,7 +29,6 @@ A modern PyTorch re-implementation of *"Context Encoders: Feature Learning by In
 ### Currently
 
 - **Taking:** Pattern Recognition & Machine Learning · Data Science in Practice · Programming for Data Analysis
-- **Building:** A financial RAG application to allow members of early stage companies to generate comprehensive financial documents and explore various financing scenarios.
 - **Next:** M.S. in Intelligent Systems, Robotics & Control (Starting March 2026)
 
 ---
